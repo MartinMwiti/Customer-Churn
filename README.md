@@ -7,7 +7,7 @@ Reasons for churn:
 #
 **For full rendered code and graphs use:** [Link](https://nbviewer.jupyter.org/github/MartinMwiti/Customer-Churn/blob/master/code.ipynb)
 
-**For the GitHub version code:** [link](https://github.com/MartinMwiti/Customer-Churn/blob/master/code.ipynb)
+**For the GitHub file code:** [link](https://github.com/MartinMwiti/Customer-Churn/blob/master/code.ipynb)
 #
 ### Active VS Churned
 ## 1. Gender proportion
