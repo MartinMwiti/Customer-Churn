@@ -5,22 +5,22 @@ Reasons for churn:
 * They go to Bank's competitors
 
 #
-**For full rendered code and graphs use:** [Link](https://nbviewer.jupyter.org/github/MartinMwiti/Customer-Churn/blob/master/code.ipynb)
+**Python code file containing the analysis and predictive modeling is found in** [code.ipynb](https://github.com/MartinMwiti/Customer-Churn/blob/master/code.ipynb) 
 
-**For the GitHub file code:** [link](https://github.com/MartinMwiti/Customer-Churn/blob/master/code.ipynb)
+**Detailed report of the analytical breakdown in pdf as well as powerpoint format is found under:** [Presentation](https://github.com/MartinMwiti/Customer-Churn/tree/master/Presentation)
 #
 ### Active VS Churned
 ## 1. Gender proportion
 ![Gender proportion](https://github.com/MartinMwiti/Customer-Churn/blob/master/Presentation/newplot%20(2).png)
-* 60% of our churned customers are female, this is not
+* 56% of our churned customers are female, this is not
 necessarily a bad thing because females constitute 57% of
 our current customer business.
 
 ## 2. Geographical stats
 ![Geographical stats](https://github.com/MartinMwiti/Customer-Churn/blob/master/Presentation/newplot%20(1).png)
-* 60% of our churned customers are female, this is not
-necessarily a bad thing because females constitute 57% of
-our current customer business.
+* By geographical, France constitute the highest number of our active customers. 
+
+* Coincidentally France also constitute the highest number of our churned customers alongside Germany at 40%. 
 
 ## 3. Number of Products stats(Active vs Churned)
 ![Number of Products stats(Active vs Churned)](https://github.com/MartinMwiti/Customer-Churn/blob/master/Presentation/newplot%20(8).png)
